@@ -1,0 +1,17 @@
+# LPC_1768_Anup
+Materials to start with embedded C (Example with LPC1768 Cortex M3 MCU)
+
+http://binaryupdates.com/category/microcontroller/arm-microcontroller-tutorials/
+https://www.engineersgarage.com/arm-projects/getting-started-arm-cortex-m3-lpc1768
+https://openlabpro.com/guide/led-blinking-using-lpc1768/
+http://www.ocfreaks.com/create-new-lpc1768-project-in-keil-5-tutorial/
+http://www.ocfreaks.com/lpc1768-gpio-programming-tutorial/
+https://www.exploreembedded.com/product/Explore%20Cortex%20M3%20(LPC1768)
+https://www.exploreembedded.com/wiki/Category:LPC1768_Tutorials
+https://openlabpro.com/guide/led-blinking-using-lpc1768/
+
+
+
+For mBed
+https://www.youtube.com/watch?v=BAzKg3vcB88&list=PLWy-YwxbAu8FDpD2saP1p6IFHgvbzODyc
+https://www.youtube.com/playlist?list=PLPbQTQKID4KntCONd44F6_Z1CD78jancm
